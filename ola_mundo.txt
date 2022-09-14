@@ -1,0 +1,2 @@
+//Programa básico em javascript
+console.log('My first steps on git, so Hello, world! :D');
